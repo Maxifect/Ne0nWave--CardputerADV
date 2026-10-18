@@ -1,0 +1,6 @@
+# name,bg,fg,accent,accent2,dim   (colors are hex RRGGBB)
+# Lines starting with # are ignored. These are added after the built-in themes.
+Sakura,1A0F14,FFE8F0,FF7AA8,FFC2D6,9A6B7C
+Ocean,001B2E,E6F7FF,00B4D8,90E0EF,4F7A8C
+Terminal,000A00,B7FFB7,00FF41,008F11,2F6F2F
+Sunset,1B0A12,FFEFD5,FF5E3A,FFC83D,8C5A5A
